@@ -7,7 +7,7 @@ Welcome to my GitHub!
 🚀 **What I'm Currently Doing:** 
 - Fine-tuning AI agents to generate content like Instagram Reel scripts for mobile apps 
 - Learning CRM tools like HubSpot and exploring how marketing meets automation  
-- Building apps using Flutter and Firebase
+- Building apps using Flutter and Firebase 
 - Actively working on projects in areas like image inpainting (CE-GANs), fraud detection, and content recommendation systems
 
 💡 I love working on ideas that blend creativity, AI, and user experience. Whether it’s helping apps grow through marketing or building tools that make tech feel more human, I’m always up for a challenge.
