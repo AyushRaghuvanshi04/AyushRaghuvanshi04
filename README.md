@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ayush Raghuvanshi
 
-Welcome to my GitHub!   
+Welcome to my GitHub!    
 
 🎓 I'm a B.Tech CSE student, passionate about exploring the intersections of AI, product design, and digital marketing. I enjoy building meaningful applications, whether it’s experimenting with generative AI, optimizing app engagement using real data, or just bringing a cool idea to life with code. 
  
