@@ -11,7 +11,7 @@ Welcome to my GitHub!
 - Actively working on projects in areas like image inpainting (CE-GANs), fraud detection, and content recommendation systems
 
 💡 I love working on ideas that blend creativity, AI, and user experience. Whether it’s helping apps grow through marketing or building tools that make tech feel more human, I’m always up for a challenge.
- 
+  
 📈 **What I'm Interested In:**
 - Generative AI
 - Mobile App Development
