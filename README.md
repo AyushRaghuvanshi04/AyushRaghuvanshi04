@@ -2,7 +2,7 @@
 
 Welcome to my GitHub!    
 
-🎓 I'm a B.Tech CSE student, passionate about exploring the intersections of AI, product design, and digital marketing. I enjoy building meaningful applications, whether it’s experimenting with generative AI, optimizing app engagement using real data, or just bringing a cool idea to life with code. 
+🎓 I'm a B.Tech CSE student, passionate about exploring the intersections of AI, product design, and digital marketing. I enjoy building meaningful applications, whether it’s experimenting with generative AI, optimizing app engagement using real data, or just bringing a cool idea to life with code.  
    
 🚀 **What I'm Currently Doing:** 
 - Fine-tuning AI agents to generate content like Instagram Reel scripts for mobile apps  
