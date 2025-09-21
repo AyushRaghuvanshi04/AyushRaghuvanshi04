@@ -16,7 +16,7 @@ Welcome to my GitHub!
 - Generative AI
 - Mobile App Development
 - Marketing Tech & CRM tools
-- Business Development + Data-backed storytelling
+- Business Development + Data-backed storytelling 
  
 🌱 Currently learning: Salesforce, Power BI, NLP, and how to make my code cleaner.
 
